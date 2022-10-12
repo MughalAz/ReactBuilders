@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Main4() {
+export default function Staff() {
     return (
         <div className='container'>
             <h3 className='text-center heading-3'>Our Expert Staff</h3>
